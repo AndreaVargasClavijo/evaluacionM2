@@ -1,0 +1,21 @@
+#elemento1 {
+    border: 2px solid black;
+    position: relative;
+    z-index: 1;
+    cursor: pointer;
+}
+
+#elemento2 {
+    border: 2px solid red;
+    position: absolute;
+    z-index: 2;
+    cursor: pointer;
+}
+
+#elemento3 {
+    border: 2px solid blue;
+    position: fixed;
+    z-index: 3;
+    cursor: pointer;
+}
+
